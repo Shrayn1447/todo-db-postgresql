@@ -1,0 +1,10 @@
+
+.conteiner {
+ @apply flex  items-center
+}
+.input {
+    @apply h-[40px] text-black pl-[15px] focus:outline-none
+}
+.button {
+    @apply border  p-[7px] 
+}
